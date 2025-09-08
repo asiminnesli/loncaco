@@ -46,7 +46,7 @@ cp env.sample .env
 
 env.sample örneği: 
 ```bash
-PORT=3000
+PORT=4000
 MONGO_URI=mongodb://localhost:27017/sales_dashboard
 ```
 
@@ -74,7 +74,7 @@ npm start
 ```
 
 🔗 Kullanım
-1.	Tarayıcıyı açın ve frontend URL’sine gidin (örn. http://localhost:4000).
+1.	Tarayıcıyı açın ve frontend URL’sine gidin (örn. http://localhost:3000).
 2.	Vendor seçim ekranından bir vendor seçin.
 3.	Dashboard’da Aylık Satış Grafiği ve Ürün Bazlı Satış Tablosu görüntülenecek.
 
