@@ -19,20 +19,20 @@ görüntülenebilir.
 ---
 
 ## 📁 Proje Yapısı
-project-root/
-│
-├─ backend/             # Node.js + Express backend
-│  ├─ src/
-│  ├─ package.json
-│  ├─ tsconfig.json
-│  └─ env.sample        # Backend environment örneği
-│
-└─ frontend/            # React frontend
-├─ src/
-├─ package.json
-└─ env.sample        # Frontend environment örneği
+project-root/  
+│  
+├─ backend/             # Node.js + Express backend  
+│  ├─ src/  
+│  ├─ package.json  
+│  ├─ tsconfig.json  
+│  └─ env.sample        # Backend environment örneği  
+│  
+└─ frontend/            # React frontend  
+├─ src/  
+├─ package.json  
+└─ env.sample        # Frontend environment örneği  
+  
 
----
 
 ## ⚙️ Kurulum ve Çalıştırma
 
