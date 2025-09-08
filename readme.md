@@ -36,8 +36,6 @@ project-root/
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-### 1️⃣ Backend
-
 1. Backend klasörüne girin:
 
 ```bash
